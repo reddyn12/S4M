@@ -15,3 +15,11 @@ Run over artists total discography
 Run over Daily Dose total channel
 Run over Audiobooks
 
+https://www.youtube.com/watch?v=Za84WQ7uM68
+
+https://en.loader.to/4/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUVtTc4zqbxQ&pp=ygUJdGhhbmsgZ29k&f=wav&s=1&e=1&r=y2downcc
+
+
+QUESTIONS:
+- Why can SSMs represent infinetly long convolutoinal kernals (what does long mean?)
+- 
